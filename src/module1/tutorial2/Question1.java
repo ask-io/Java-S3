@@ -17,6 +17,7 @@ public class Question1 {
 		switch(Character.toLowerCase(ch)) {
 		case 'a':case 'e':case 'i': case 'o':case 'u' : System.out.println(ch+" is a Vowel"); break;
 		default : System.out.println(ch+" is NOT a Vowel");
+		sc.close();
 		}
 	}
 
