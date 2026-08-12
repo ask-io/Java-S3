@@ -1,4 +1,4 @@
-package module1.classwork;
+package classwork;
 
 class Student {
     String name;

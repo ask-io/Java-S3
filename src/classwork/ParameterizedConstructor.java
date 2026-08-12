@@ -1,4 +1,4 @@
-package module1.classwork;
+package classwork;
 import java.util.Scanner;
 
 class Box2 {
